@@ -1,0 +1,2 @@
+# loc_index_columns_results_values
+通过dataframe的一个值提取同一行另一个值
